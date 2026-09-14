@@ -22,14 +22,4 @@ This project was created to demonstrate practical skills in data analysis, data 
 Project File:
 The Power BI `Sales-Dashboard-by-Yasin-Eyvazi.pbix` file is included in this repository.
 
-Dashboard Preview:
-Desktop Views:
-[Desktop Dashboard 1](dashboard-desktop-1.png)
-[Desktop Dashboard 2](dashboard-desktop-2.png)
-[Desktop Dashboard 3](dashboard-desktop-3.png)
-[Desktop Dashboard 4](dashboard-desktop-4.png)
-Mobile Views:
-[Mobile Dashboard 1](dashboard-mobile-1.png)
-[Mobile Dashboard 2](dashboard-mobile-2.png)
-[Mobile Dashboard 3](dashboard-mobile-3.png)
-[Mobile Dashboard 4](dashboard-mobile-4.png)
+PDF View & ScreenShots:
