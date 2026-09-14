@@ -20,6 +20,7 @@ Project Purpose:
 This project was created to demonstrate practical skills in data analysis, data visualization, Power BI, Excel and DAX using a sample dataset.
 
 Project File:
-The Power BI `Sales-Dashboard-by-Yasin-Eyvazi.pbix` file is included in this repository.
+The Power BI `Sales-Dashboard.pbix` file is included in this repository.
 
 PDF View & ScreenShots:
+(ScreenShots.pdf)
